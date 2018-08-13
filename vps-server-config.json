@@ -1,0 +1,9 @@
+{
+  "tensorflow_info":{
+    "mod_file": "/Users/stinsonmathai/programming/machineLearning/tensorflow-for-poets-2/outputs/retrained_graph.pb",
+    "lab_file" : "/Users/stinsonmathai/programming/machineLearning/tensorflow-for-poets-2/outputs/retrained_label.txt"
+  },
+  "file_info":{
+    "location_to_save" : "/Users/stinsonmathai/programming/machineLearning/API-Server/saved/"
+  }
+}

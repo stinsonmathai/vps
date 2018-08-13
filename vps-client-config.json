@@ -1,0 +1,9 @@
+{
+  "image_info":{
+    "test_image_url": "/Users/stinsonmathai/programming/machineLearning/API-Server/"
+  },
+  "http_info": {
+    "http_connection_socket": "127.0.0.1:8000"
+  }
+
+}
